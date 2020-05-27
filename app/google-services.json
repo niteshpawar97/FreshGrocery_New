@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877321574328",
+    "firebase_url": "https://testmy-164417.firebaseio.com",
+    "project_id": "testmy-164417",
+    "storage_bucket": "testmy-164417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877321574328:android:a8c6bea6c074566163214d",
+        "android_client_info": {
+          "package_name": "com.store.cwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877321574328-h33pq15r8mctlrthh003io4pdkqebn8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZmQo47CcMfmQCAPvVybSCGo1mnPEkZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877321574328-h33pq15r8mctlrthh003io4pdkqebn8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
